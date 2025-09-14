@@ -84,7 +84,7 @@ const Navbar = () => {
   const [productsOpened, { toggle: toggleProducts }] = useDisclosure(false);
 
   return (
-    <Box className="bg-grey">
+    <Box className="bg-grey sticky top-0 z-50">
       <header className="container mx-auto px-3 h-24">
         <Group justify="space-between" h="100%">
           <Link href={paths.HOME}>

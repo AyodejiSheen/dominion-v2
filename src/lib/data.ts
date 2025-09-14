@@ -98,3 +98,69 @@ export const leadership = [
     img: "/images/About/image-8.jpg",
   },
 ];
+
+export const allServices = [
+  {
+    title: "IT Support",
+    text: "Empowering your vision with seamless IT partnership so you can focus on what matters. Let us lift the weight of tech and lead your transformation.",
+    img: "/images/Services/all/image.jpg",
+    cta: "Explore IT Support",
+    link: "",
+  },
+  {
+    title: "IT Consulting",
+    text: "Forge the future with innovative strategies, seamless integration, and measurable results that empower businesses to lead in the digital era and beyond.",
+    img: "/images/Services/all/image-1.jpg",
+    cta: "Explore Consulting",
+    link: "",
+  },
+  {
+    title: "Artificial Intelligence",
+    text: "Tailored intelligence that adapts to your goals, transforming complexity into clarity and opportunity into growth.",
+    img: "/images/Services/all/image-2.jpg",
+    cta: "Explore Artificial Intelligence",
+    link: "",
+  },
+  {
+    title: "Digital Transformation",
+    text: "We blend vision with precision, delivering solutions that drive progress and position African businesses for global success. You set the direction; we make it happen.",
+    img: "/images/Services/all/image-3.jpg",
+    cta: "Explore Digital Transformation",
+    link: "",
+  },
+  {
+    title: "Cyber Security",
+    text: "We make cybersecurity a core strength, so you can safeguard value, outsmart threats, and move boldly into the future.",
+    img: "/images/Services/all/image-4.jpg",
+    cta: "Explore Cyber Security",
+    link: "",
+  },
+  {
+    title: "Application Services",
+    text: "We design and deliver adaptable, high-impact applications that streamline processes, enhance experiences, and position your business to lead in the digital economy.",
+    img: "/images/Services/all/image-5.jpg",
+    cta: "Explore Application Services",
+    link: "",
+  },
+  {
+    title: "Data Automation",
+    text: "We automate the tedious, surface the meaningful, and free your teams to focus on decisions that drive growth.",
+    img: "/images/Services/all/image-6.jpg",
+    cta: "Explore Data Automation",
+    link: "",
+  },
+  {
+    title: "Enterprise Networking",
+    text: "Build a network that thinks ahead enabling smarter operations, faster decisions, and seamless collaboration that fuels innovation.",
+    img: "/images/Services/all/image-7.jpg",
+    cta: "Explore Enterprise Networking",
+    link: "",
+  },
+  {
+    title: "IT Infrastructure",
+    text: "We create infrastructure that adapts as you grow, ensuring stability today and scalability for the challenges and opportunities ahead.",
+    img: "/images/Services/all/image-8.jpg",
+    cta: "Explore IT Infrastructure",
+    link: "",
+  },
+];

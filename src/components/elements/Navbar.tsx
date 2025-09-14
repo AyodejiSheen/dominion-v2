@@ -22,7 +22,7 @@ import { paths } from "@/lib/route";
 const services = [
   {
     title: "All Services",
-    link: "#",
+    link: paths.SERVICES,
   },
   {
     title: "Digital Transformation",
@@ -84,8 +84,8 @@ const Navbar = () => {
   const [productsOpened, { toggle: toggleProducts }] = useDisclosure(false);
 
   return (
-    <Box>
-      <header className="container mx-auto px-3 h-24 lg:h-32">
+    <Box className="bg-grey">
+      <header className="container mx-auto px-3 h-24">
         <Group justify="space-between" h="100%">
           <Link href={paths.HOME}>
             <Image
